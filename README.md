@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PrivatePod
 
 [![CI Status](https://img.shields.io/travis/stone4302/PrivatePod.svg?style=flat)](https://travis-ci.org/stone4302/PrivatePod)
@@ -27,3 +28,7 @@ stone4302, pengbingxiang@weli.cn
 ## License
 
 PrivatePod is available under the MIT license. See the LICENSE file for more info.
+=======
+# PrivatePodTest
+this is a test.
+>>>>>>> 53eee2c4c4a51d841bc0ede1944bbedecab1c1ca
